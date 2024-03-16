@@ -1,9 +1,3 @@
-
-
-https://github.com/MoYasser1777/Product-Image-Classifier/assets/119734442/79f9514c-494d-4b59-b621-5e3995627d1f
-
-
-
 https://github.com/MoYasser1777/Product-Image-Classifier/assets/119734442/405f197d-badd-4348-9f44-12e224d7bf23
 
 # Product-Image-Classifier
