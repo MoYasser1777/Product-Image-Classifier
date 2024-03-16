@@ -15,9 +15,10 @@ scikit-image
 joblib
 
 Usage:
-1- Training: Place your image datasets into the Images folder, organizing them into subfolders representing different classes. Run the train() function to train the SVM classifier.
 
-2- Prediction: After training, you can use the get_prediction(image) function to predict the class of a new image. Provide the path to the image as input.
+- Training: Place your image datasets into the Images folder, organizing them into subfolders representing different classes. Run the train() function to train the SVM classifier.
+
+- Prediction: After training, you can use the get_prediction(image) function to predict the class of a new image. Provide the path to the image as input.
 
 Note:
 - Ensure that your image datasets are well-organized in the Images folder, with each subfolder representing a different class.
