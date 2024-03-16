@@ -1,3 +1,11 @@
+
+
+https://github.com/MoYasser1777/Product-Image-Classifier/assets/119734442/79f9514c-494d-4b59-b621-5e3995627d1f
+
+
+
+https://github.com/MoYasser1777/Product-Image-Classifier/assets/119734442/405f197d-badd-4348-9f44-12e224d7bf23
+
 # Product-Image-Classifier
 
 This repository contains code for an image classification system using a Support Vector Machine (SVM) algorithm trained on Histogram of Oriented Gradients (HOG) features. The system is capable of classifying images into three main classes: fashion, nutrition, and accessories.
